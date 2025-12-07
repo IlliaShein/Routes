@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\managers\\vrpsolutionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\managers\\vrpsolutionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\managers\\osrmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\managers\\osrmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\middlewares\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\controllers\\osrmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\controllers\\osrmcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\dtos\\osrmroutesclientinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\dtos\\osrmroutesclientinfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\models\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\models\\coordinate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\models\\timedistancetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\models\\timedistancetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\models\\vrpsolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\models\\vrpsolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\interfaces\\iosrmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\interfaces\\iosrmmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\middlewares\\errorhandlingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\middlewares\\errorhandlingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\messages\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\messages\\errors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\interfaces\\ivrpsolutionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\interfaces\\ivrpsolutionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|c:\\users\\illy\\source\\repos\\routes\\routes\\routes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6EB30AB9-330F-4919-95F6-C6CC71F2F3AE}|Routes\\Routes.csproj|solutionrelative:routes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 13,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\.gitignore",
+              "RelativeDocumentMoniker": "Routes\\.gitignore",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\.gitignore",
+              "RelativeToolTip": "Routes\\.gitignore",
+              "ViewState": "AgIAAO8AAAAAAAAAAAAAACABAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-07T15:44:43.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VRPSolutionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Managers\\VRPSolutionManager.cs",
+              "RelativeDocumentMoniker": "Routes\\Managers\\VRPSolutionManager.cs",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Managers\\VRPSolutionManager.cs",
+              "RelativeToolTip": "Routes\\Managers\\VRPSolutionManager.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAA9wKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:18:25.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Coordinate.cs",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Models\\Coordinate.cs",
+              "RelativeDocumentMoniker": "Routes\\Models\\Coordinate.cs",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Models\\Coordinate.cs",
+              "RelativeToolTip": "Routes\\Models\\Coordinate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:04:44.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TimeDistanceTable.cs",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Models\\TimeDistanceTable.cs",
+              "RelativeDocumentMoniker": "Routes\\Models\\TimeDistanceTable.cs",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Models\\TimeDistanceTable.cs",
+              "RelativeToolTip": "Routes\\Models\\TimeDistanceTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:56:57.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VRPSolution.cs",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Models\\VRPSolution.cs",
+              "RelativeDocumentMoniker": "Routes\\Models\\VRPSolution.cs",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Models\\VRPSolution.cs",
+              "RelativeToolTip": "Routes\\Models\\VRPSolution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:17:00.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OSRMController.cs",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Controllers\\OSRMController.cs",
+              "RelativeDocumentMoniker": "Routes\\Controllers\\OSRMController.cs",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Controllers\\OSRMController.cs",
+              "RelativeToolTip": "Routes\\Controllers\\OSRMController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:31:08.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOSRMManager.cs",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Interfaces\\IOSRMManager.cs",
+              "RelativeDocumentMoniker": "Routes\\Interfaces\\IOSRMManager.cs",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Interfaces\\IOSRMManager.cs",
+              "RelativeToolTip": "Routes\\Interfaces\\IOSRMManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:52:18.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OSRMRoutesClientInfoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\DTOs\\OSRMRoutesClientInfoDTO.cs",
+              "RelativeDocumentMoniker": "Routes\\DTOs\\OSRMRoutesClientInfoDTO.cs",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\DTOs\\OSRMRoutesClientInfoDTO.cs",
+              "RelativeToolTip": "Routes\\DTOs\\OSRMRoutesClientInfoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:01:51.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Routes\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Routes\\Middlewares\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:37:51.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OSRMManager.cs",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Managers\\OSRMManager.cs",
+              "RelativeDocumentMoniker": "Routes\\Managers\\OSRMManager.cs",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Managers\\OSRMManager.cs",
+              "RelativeToolTip": "Routes\\Managers\\OSRMManager.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:01:01.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorHandlingMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Middlewares\\ErrorHandlingMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Routes\\Middlewares\\ErrorHandlingMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Middlewares\\ErrorHandlingMiddlewareExtensions.cs",
+              "RelativeToolTip": "Routes\\Middlewares\\ErrorHandlingMiddlewareExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:38:29.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Errors.cs",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Messages\\Errors.cs",
+              "RelativeDocumentMoniker": "Routes\\Messages\\Errors.cs",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Messages\\Errors.cs",
+              "RelativeToolTip": "Routes\\Messages\\Errors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T00:08:53.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IVRPSolutionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Interfaces\\IVRPSolutionManager.cs",
+              "RelativeDocumentMoniker": "Routes\\Interfaces\\IVRPSolutionManager.cs",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Interfaces\\IVRPSolutionManager.cs",
+              "RelativeToolTip": "Routes\\Interfaces\\IVRPSolutionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T13:16:28.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Program.cs",
+              "RelativeDocumentMoniker": "Routes\\Program.cs",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Program.cs",
+              "RelativeToolTip": "Routes\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-03T23:32:39.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Routes\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Routes\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-03T23:31:05.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\appsettings.json",
+              "RelativeDocumentMoniker": "Routes\\appsettings.json",
+              "ToolTip": "C:\\Users\\Illy\\source\\repos\\Routes\\Routes\\Routes\\appsettings.json",
+              "RelativeToolTip": "Routes\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-03T23:30:59.048Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
